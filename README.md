@@ -5,3 +5,7 @@ Retos de la comunidad de Data Science Fem en el marco del programa #DataChalleng
 
 - Reto Nobels de Kaggle:
 https://www.kaggle.com/nobelfoundation/nobel-laureates
+
+- Reto de fundamentos de estadistica:
+Implementamos el dataset "train.csv" del reto del Titanic de Kaggle
+https://www.kaggle.com/c/titanic/data?select=train.csv
